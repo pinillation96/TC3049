@@ -1,7 +1,8 @@
 public class Main {
 
     /*Para este ejercicio usaré el patron creacional builder para construir los combos
-    
+        Con Abstarct Factory se verán el tamaño de los alimentos
+        
 */
     public static void main(String[] args) {
         DealBuilder db= new DealBuilder();
